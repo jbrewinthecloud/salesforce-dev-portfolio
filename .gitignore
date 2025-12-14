@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Salesforce CLI
+.sfdx/
+.sf/
+
+# Logs
+*.log
+
+# Node modules (for LWC tooling etc.)
+node_modules/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
