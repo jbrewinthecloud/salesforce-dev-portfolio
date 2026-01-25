@@ -9,33 +9,9 @@ Certified Salesforce Professional · USAF Veteran · Builder First
 
 ## Live Projects
 
-### 1️⃣ Mass Lead Convert Tool (Apex + Batch + Best Practices)
-Automates large-scale lead conversions for Sales Ops teams to improve data hygiene and pipeline accuracy.
-
-_Status: In Progress_
-
----
-
-### 2️⃣ Case Quick Action LWC (UI Modernization for Sales/Support)
-Lightning Web Component enables faster record updates and creates a streamlined agent experience.
-
-_Status: In Progress_
-
----
-
-### 3️⃣ Engagement Insights LWC (Marketing + Sales Conversion Tool)
-Shows reps key engagement signals from Marketing Cloud Growth right on the record.
-
-_Status: In Progress_
-
----
-
-### 4️⃣ AI Case Assistant (Agentforce Vibes + Flow + Apex + LWC)
-Future-forward case resolution component powered by AI assistant interactions.
-
-_Status: In Progress_
-
----
+## Projects
+- **Agentforce Vibes – Personalized Welcome + Tasks Due Today (LWC)**  
+  - Write-up: `salesforce-dev-portfolio/portfolio/agentforce-welcome-tasks-lwc.md`
 
 ## Skills Showcased
 - Apex Classes, Triggers & Test Classes (Bulkified)
